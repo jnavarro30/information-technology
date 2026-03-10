@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Information Technology (IT)",
-  description: "A VitePress Site",
+  description: "A collection of notes and resources.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -14,11 +14,20 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Examples',
+        collapsed: false,
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
-      }
+      },
+      {
+        text: 'ComptiA',
+        collapsed: false,
+        items: [
+          { text: 'Certification', link: '/comptia/certification' },
+          { text: 'Core 1', link: '/comptia/core1' },
+        ]
+      },
     ],
 
     socialLinks: [

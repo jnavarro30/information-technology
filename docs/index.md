@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Information Technology (IT)"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "A collection of notes and resources."
+  tagline: A journey to Comptia A++
   actions:
     - theme: brand
       text: Markdown Examples
