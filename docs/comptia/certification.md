@@ -12,8 +12,8 @@ outline: deep
 
 | Core | Name |
 | ----------- | ----------- |
-| 1 | [220-1101]() |
-| 2 | [220-1102]() |
+| 1 |  |
+| 2 |  |
 
 ### CompTIA A+ (Core 1)
 - Mobile Devices

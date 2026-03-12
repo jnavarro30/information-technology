@@ -28,6 +28,14 @@ export default defineConfig({
           { text: 'Core 1', link: '/comptia/core1' },
         ]
       },
+      {
+        text: 'Core 1',
+        collapsed: false,
+        items: [
+          { text: '802.11 Technologies', link: '/core-1/802.11-technologies' },
+          { text: 'Network Services', link: '/core-1/network-services' },
+        ]
+      },
     ],
 
     socialLinks: [
